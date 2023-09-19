@@ -12,7 +12,7 @@ repo_owner: GucciMane204
 kittygram_domain: полная ссылка (https://mimidor2.hopto.org/) на ваш проект Kittygram
 taski_domain: полная ссылка (https://mimidor.hopto.org/) на ваш проект Taski
 dockerhub_username: alex204
-```
+```````
 
 Скопируйте содержимое файла `.github/workflows/main.yml` в файл `kittygram_workflow.yml` в корневой директории проекта.
 
