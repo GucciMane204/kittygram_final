@@ -8,10 +8,10 @@
 
 В корне репозитория создайте файл tests.yml со следующим содержимым:
 ```yaml
-repo_owner: ваш_логин_на_гитхабе
-kittygram_domain: полная ссылка (https://доменное_имя) на ваш проект Kittygram
-taski_domain: полная ссылка (https://доменное_имя) на ваш проект Taski
-dockerhub_username: ваш_логин_на_докерхабе
+repo_owner: GucciMane204
+kittygram_domain: полная ссылка (https://mimidor2.hopto.org/) на ваш проект Kittygram
+taski_domain: полная ссылка (https://mimidor.hopto.org/) на ваш проект Taski
+dockerhub_username: alex204
 ```
 
 Скопируйте содержимое файла `.github/workflows/main.yml` в файл `kittygram_workflow.yml` в корневой директории проекта.
